@@ -1,5 +1,5 @@
 # Vynchronize
-[Access the application here!](https://ahanna334.herokuapp.com/)
+[Access the application here!](https://ahanna334.fly.dev)
 
 ![Vynchronize Screenshot](https://raw.githubusercontent.com/kyle8998/Vynchronize/master/img/screenshot2.PNG)
 
